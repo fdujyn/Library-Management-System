@@ -21,3 +21,14 @@
 
 
 
+### 分工
+
++ 整理文档：Catherine
++ 画图：Catherine
++ 技术选型：ChenXin
++ 后端：Catherine
++ APP：ChenXIn
++ 网页：*TBD*
+
+
+
