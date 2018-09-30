@@ -20,15 +20,28 @@
 +   数据库存储图书信息
 
 
-
 ### 分工
 
 + 整理文档：Catherine
 + 画图：Catherine
-+ 技术选型：ChenXin
++ 技术选型：Will
 + 后端：Catherine
-+ APP：ChenXIn
++ APP：Will
 + 网页：*TBD*
 
+
+
+
+
+
+### 技术
+
++   APP：
+    +   使用JavaScript
++   后端：
+    +   使用MySQL（数据库）
+    +   python（服务器）https://grpc.io/docs/tutorials/basic/python.html
++   网页：
+    +   使用vue.js
 
 
